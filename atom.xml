@@ -9,7 +9,25 @@
   <link href="https://kfcisme.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, wow肯德基爺爺欸</rights>
   <title>wow肯德基爺爺欸's Bolg</title>
-  <updated>2026-05-04T03:21:08.081Z</updated>
+  <updated>2026-05-04T04:21:32.757Z</updated>
+  <entry>
+    <author>
+      <name>wow肯德基爺爺欸</name>
+    </author>
+    <category term="測試" scheme="https://kfcisme.github.io/categories/%E6%B8%AC%E8%A9%A6/"/>
+    <category term="Hexo" scheme="https://kfcisme.github.io/tags/Hexo/"/>
+    <content>
+      <![CDATA[<h2 id="測試測試"><a href="#測試測試" class="headerlink" title="測試測試"></a>測試測試</h2>]]>
+    </content>
+    <id>https://kfcisme.github.io/2026/05/04/test/</id>
+    <link href="https://kfcisme.github.io/2026/05/04/test/"/>
+    <published>2026-05-04T06:30:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="測試測試"><a href="#測試測試" class="headerlink" title="測試測試"></a>測試測試</h2>]]>
+    </summary>
+    <title>test</title>
+    <updated>2026-05-04T04:21:32.757Z</updated>
+  </entry>
   <entry>
     <author>
       <name>wow肯德基爺爺欸</name>
